@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Hi 👋! My name is Mohamed Malek Touihri and I'm a Junior Web Developer<br><br>- 📚 I'm currently learning in softy education center web development</p>
+<p align="left">Hi 👋! My name is Mohamed Malek Touihri and I'm a Junior Web Developer<br><br>- 📚 I'm currently learning in Softy Education center web development</p>
 
 ###
 
