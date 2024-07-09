@@ -1,4 +1,4 @@
-# Portfolio Web page Project
+# Portfolio Web Page Project
 
 ## Setup Instructions
 
