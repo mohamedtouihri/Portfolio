@@ -33,8 +33,7 @@
 
 ## Project Description
 
-This project is a simple web Page that allows users to change the background color of a web page by clicking a button. It is implemented using HTML and CSS.
-
+This project utilizes HTML and CSS to create a clean and responsive layout, allowing you to present your work, skills, and contact information effectively.
 
 <h3 align="left">🛠 Language and tools</h3>
 
