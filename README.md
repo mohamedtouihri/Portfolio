@@ -35,11 +35,6 @@
 
 This project utilizes HTML and CSS to create a clean and responsive layout, allowing you to present your work, skills, and contact information effectively.
 
-#Features:
--Responsive design
--Sections for About, Skills, Projects, and Contact
--Easy to customize
-
 <h3 align="left">🛠 Language and tools</h3>
 
 ###
